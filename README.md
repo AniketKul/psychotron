@@ -29,6 +29,7 @@ go run psychotron/main.go
 
 ## psychotron 🤖 in action:
 
+
 <img width="1097" alt="ss_1" src="https://user-images.githubusercontent.com/21697139/61167225-a93d8b80-a4f0-11e9-99a1-3e7d339397bf.png">
 
 <img width="944" alt="ss_2" src="https://user-images.githubusercontent.com/21697139/61167228-b22e5d00-a4f0-11e9-82eb-da4c7b1f455a.png">
