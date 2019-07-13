@@ -27,7 +27,24 @@ source psychotron/keys
 go run psychotron/main.go
 ```
 
-*Note*
+## psychotron 🤖 in action:
+
+<img width="1097" alt="ss_1" src="https://user-images.githubusercontent.com/21697139/61167225-a93d8b80-a4f0-11e9-99a1-3e7d339397bf.png">
+
+<img width="944" alt="ss_2" src="https://user-images.githubusercontent.com/21697139/61167228-b22e5d00-a4f0-11e9-82eb-da4c7b1f455a.png">
+
+<img width="1104" alt="ss_3" src="https://user-images.githubusercontent.com/21697139/61167229-b8243e00-a4f0-11e9-8f3b-4926b57c97f4.png">
+
+<img width="1246" alt="ss_4" src="https://user-images.githubusercontent.com/21697139/61167230-bf4b4c00-a4f0-11e9-8324-ce3c6deac08f.png">
+
+<img width="1243" alt="ss_5" src="https://user-images.githubusercontent.com/21697139/61167231-c3776980-a4f0-11e9-92a4-d9b11436c650.png">
+
+<img width="961" alt="ss_6" src="https://user-images.githubusercontent.com/21697139/61167235-c83c1d80-a4f0-11e9-84fe-6c45a5de7355.png">
+
+<img width="839" alt="ss_7" src="https://user-images.githubusercontent.com/21697139/61167238-cb370e00-a4f0-11e9-8f17-4af72d3f805f.png">
+
+
+**Notes:**
 
 1] Slack go-client is open-source (https://github.com/nlopes/slack)
 
